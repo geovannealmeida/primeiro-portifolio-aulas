@@ -1,0 +1,10 @@
+Criar o repositório no Github
+
+Clonar o link
+Abrir a pasta a qual estará o repositório
+Abbir o GitBush
+executar:
+git clone e colar o link
+cd e colar o endereço do repositório
+clear para limpar
+git status para conferir se está tudo certo, se existe algo para comitar
